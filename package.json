@@ -1,0 +1,18 @@
+{
+  "name": "pwa-news-dio-api",
+  "description": "",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Sidnei Ali <sidneiali01@gmail.com>",
+  "scripts": {
+    "dev": "nodemon --experimental-json-modules src/index.mjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
